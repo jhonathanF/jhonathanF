@@ -5,7 +5,7 @@
 
 Estudante de Engenharia da Computação, apaixonado por inovação e tecnologia.
 
-- :technologist: Trabalhando: Engenheiro de software no ***EBANX***
+- :man_technologist: Trabalhando: Engenheiro de software no ***EBANX***
 - :heart: Techs:  Typescript, Javascript, PHP, Java, C.
 - :books: Estudando: Engenharia da computação na Universidade Positivo e curso [CS50](https://cs50.harvard.edu/) de Harvard
 
