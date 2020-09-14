@@ -7,7 +7,7 @@ Estudante de Engenharia da Computação, apaixonado por inovação e tecnologia.
 
 - :man_technologist: Trabalhando: Engenheiro de software no ***EBANX***
 - :heart: Techs:  Typescript, Javascript, PHP, Java, C.
-- :books: Estudando: Engenharia da computação na Universidade Positivo e curso [CS50](https://cs50.harvard.edu/) de Harvard
+- :books: Estudando: Engenharia da computação na Universidade Positivo
 
 [Visite meu site](https://jhonathan.ferreira.com.br)
 <!--
