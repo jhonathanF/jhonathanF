@@ -6,6 +6,6 @@
 Engenheiro da computação, apaixonado por inovação e tecnologia.
 
 - :man_technologist: Trabalhando: Engenheiro de software no ***EBANX***
-- :heart: Techs:  Typescript, Javascript, PHP, Java, C.
+- :heart: Techs: PHP,Typescript, Javascript,  Java, C.
 
 [Visite meu site](https://jhonathan.ferreira.com.br)
